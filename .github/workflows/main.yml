@@ -24,7 +24,7 @@ jobs:
     - name: Installing Node
       uses: action/setup-node@v2-beta
       with:
-        key:node-version: 12
+        key:node-version: 12 []
       
 
     # Runs a set of commands using the runners shell
